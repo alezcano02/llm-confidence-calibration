@@ -1,0 +1,11 @@
+huggingface_hub
+jupyter
+matplotlib
+numpy
+pandas
+pyarrow
+scikit-learn
+scipy
+seaborn
+torch
+transformers
